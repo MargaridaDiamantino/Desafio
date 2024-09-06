@@ -1,0 +1,8 @@
+Ligue o primeiro interruptor e aguarde alguns minutos. 
+Em seguida, ligue o segundo interruptor e dirija-se 
+imediatamente a uma das salas.
+Lâmpada acesa: O interruptor que você acabou de ligar (o segundo) controla essa lâmpada.
+Lâmpada apagada e quente: O primeiro interruptor controla essa lâmpada. A lâmpada está 
+quente porque foi ligada e desligada.
+Lâmpada apagada e fria: O terceiro interruptor controla essa lâmpada. Nenhum dos interruptores 
+que você manipulou influenciou essa lâmpada.
